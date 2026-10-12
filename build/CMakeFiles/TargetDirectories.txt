@@ -1,0 +1,4 @@
+/home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/build/CMakeFiles/dynamic_vector_db.dir
+/home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/build/CMakeFiles/test.dir
+/home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/build/CMakeFiles/edit_cache.dir
+/home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdynamic_vector_db.a CMakeFiles/dynamic_vector_db.dir/src/storage/SQLiteRecordStorage.cpp.o CMakeFiles/dynamic_vector_db.dir/src/index/BruteForceIndex.cpp.o CMakeFiles/dynamic_vector_db.dir/src/VectorDatabase.cpp.o
+/usr/bin/ranlib libdynamic_vector_db.a

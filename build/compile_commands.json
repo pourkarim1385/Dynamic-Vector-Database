@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/build",
+  "command": "/usr/bin/c++  -I/home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/include -std=gnu++20 -o CMakeFiles/dynamic_vector_db.dir/src/storage/SQLiteRecordStorage.cpp.o -c /home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/src/storage/SQLiteRecordStorage.cpp",
+  "file": "/home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/src/storage/SQLiteRecordStorage.cpp",
+  "output": "CMakeFiles/dynamic_vector_db.dir/src/storage/SQLiteRecordStorage.cpp.o"
+},
+{
+  "directory": "/home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/build",
+  "command": "/usr/bin/c++  -I/home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/include -std=gnu++20 -o CMakeFiles/dynamic_vector_db.dir/src/index/BruteForceIndex.cpp.o -c /home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/src/index/BruteForceIndex.cpp",
+  "file": "/home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/src/index/BruteForceIndex.cpp",
+  "output": "CMakeFiles/dynamic_vector_db.dir/src/index/BruteForceIndex.cpp.o"
+},
+{
+  "directory": "/home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/build",
+  "command": "/usr/bin/c++  -I/home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/include -std=gnu++20 -o CMakeFiles/dynamic_vector_db.dir/src/VectorDatabase.cpp.o -c /home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/src/VectorDatabase.cpp",
+  "file": "/home/iliya-aghazadeh/Desktop/Dynamic-Vector-Database/src/VectorDatabase.cpp",
+  "output": "CMakeFiles/dynamic_vector_db.dir/src/VectorDatabase.cpp.o"
+}
+]
